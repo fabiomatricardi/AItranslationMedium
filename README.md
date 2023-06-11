@@ -10,9 +10,11 @@ There is a folder called model_it
 Change the name at your convenience according to oyur target language
 remember to change as well the path in the .py file  in  the `checkpoint`
 ## Create wirtual environment
+```
 python3.10 -m venv venv  #version 3.10 is reccomended
 source venv/bin/activate #for mac
 venv\Scripts\activate  #for windows users
+```
 
 ## Install packages
 With venv activated (see point above)<br>
